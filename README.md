@@ -8,6 +8,10 @@ This library is mainly for beginners.
 
 This is also my very first library. Hope you enjoy it.
 
+View at:
+
+https://pypi.org/project/gdbyvgt/0.0.2/#description
+
 ## Installation
 
 ```sh
