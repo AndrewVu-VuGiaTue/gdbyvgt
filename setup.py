@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="gdbyvgt",  
-    version="0.0.2",
+    version="0.0.6",
     description="Gradient Descent implementation by Vu Gia Tue",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
