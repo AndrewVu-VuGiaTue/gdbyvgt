@@ -8,7 +8,7 @@ This library is mainly for beginners.
 
 This is also my very first library. Hope you enjoy it.
 
-*** Only used this library for one feature ML
+*** Only used for one feature ML.
 ## Installation
 
 ```sh
